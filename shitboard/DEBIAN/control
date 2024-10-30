@@ -1,6 +1,6 @@
 Package: com.xtomasnemec.bettershitboard
 Name: "better" shitboard theme
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm64
 Description: an "even better" theme
 Author: xtomasnemec (forked from https://github.com/reticivis-net/shitboard/)
