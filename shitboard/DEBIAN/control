@@ -6,4 +6,4 @@ Description: an "even better" theme
 Author: xtomasnemec (forked from https://github.com/reticivis-net/shitboard/)
 Maintainer: xtomasnemec
 Section: Themes
-Depends: com.spark.snowboard, com.spark.snowboard.settingsicons, com.spark.snowboard.masks, com.spark.snowboard.ui
+Depends: com.spark.snowboard, com.spark.snowboard.settingsicons, com.spark.snowboard.masks, com.spark.snowboard.ui, com.spark.snowboard.fonts
